@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.springhow.examples.springboot</groupId>
-	<artifactId>spring-boot-restful-example</artifactId>
+	<artifactId>spring-boot-restful-data-jpa-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-restful-example</name>
+	<name>spring-boot-restful-data-jpa-example</name>
 	<description>Restful example</description>
 
 	<properties>
